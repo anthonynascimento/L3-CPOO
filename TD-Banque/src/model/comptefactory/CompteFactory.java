@@ -1,8 +1,8 @@
 package model.comptefactory;
 
-import model.compteDec.Compte;
-import model.compteDec.CompteManip;
-import model.compteDef.CompteCourant;
+import model.comptedec.Compte;
+import model.comptedec.CompteManip;
+import model.comptedef.CompteCourant;
 
 public final class CompteFactory {
 
