@@ -2,10 +2,12 @@ language: java
 
 jdk:
   - oraclejdk8
+  
+sudo: true
 
 script: 
   - "./compile.sh"
 
 cache:
   directories:
-    - '$HOME/.l3/repository'
+    - '$HOME/.m2/repository'
