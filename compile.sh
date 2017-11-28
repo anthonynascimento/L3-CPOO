@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cd TD-Banque/src/
+cd TD-Banque/
 rm -rf bin
 mkdir -p bin
 cd src/
