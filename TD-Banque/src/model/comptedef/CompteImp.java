@@ -3,7 +3,7 @@ package model.comptedef;
 import java.util.UUID;
 import java.lang.StringBuilder;
 
-import model.compteDec.Compte;
+import model.comptedec.Compte;
 /**
 * Model the concept of back
 */
