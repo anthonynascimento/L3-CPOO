@@ -1,4 +1,4 @@
-package model.compteFactory;
+package model.comptefactory;
 
 import model.compteDec.Compte;
 import model.compteDec.CompteManip;
