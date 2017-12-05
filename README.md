@@ -5,3 +5,4 @@ TD réalisés :
 - TD-Entreprise
 - TD-ParcAttraction
 - TD-Cinema
+- TD-Exception
